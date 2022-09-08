@@ -24,3 +24,55 @@ C:\Users\admin\Desktop\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\refint\NguyenQuang
 C:\Users\admin\Desktop\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\NguyenQuangKhaiBTH.pdb
 C:\Users\admin\Desktop\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\NguyenQuangKhaiBTH.genruntimeconfig.cache
 C:\Users\admin\Desktop\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\ref\NguyenQuangKhaiBTH.dll
+D:\OneDrive - Hanoi University of Mining and Geology\Desktop\C#\NguyenQuangKhaiBTH\bin\Debug\net6.0\appsettings.Development.json
+D:\OneDrive - Hanoi University of Mining and Geology\Desktop\C#\NguyenQuangKhaiBTH\bin\Debug\net6.0\appsettings.json
+D:\OneDrive - Hanoi University of Mining and Geology\Desktop\C#\NguyenQuangKhaiBTH\bin\Debug\net6.0\NguyenQuangKhaiBTH.staticwebassets.runtime.json
+D:\OneDrive - Hanoi University of Mining and Geology\Desktop\C#\NguyenQuangKhaiBTH\bin\Debug\net6.0\NguyenQuangKhaiBTH.exe
+D:\OneDrive - Hanoi University of Mining and Geology\Desktop\C#\NguyenQuangKhaiBTH\bin\Debug\net6.0\NguyenQuangKhaiBTH.deps.json
+D:\OneDrive - Hanoi University of Mining and Geology\Desktop\C#\NguyenQuangKhaiBTH\bin\Debug\net6.0\NguyenQuangKhaiBTH.runtimeconfig.json
+D:\OneDrive - Hanoi University of Mining and Geology\Desktop\C#\NguyenQuangKhaiBTH\bin\Debug\net6.0\NguyenQuangKhaiBTH.dll
+D:\OneDrive - Hanoi University of Mining and Geology\Desktop\C#\NguyenQuangKhaiBTH\bin\Debug\net6.0\NguyenQuangKhaiBTH.pdb
+D:\OneDrive - Hanoi University of Mining and Geology\Desktop\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\NguyenQuangKhaiBTH.csproj.AssemblyReference.cache
+D:\OneDrive - Hanoi University of Mining and Geology\Desktop\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\NguyenQuangKhaiBTH.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - Hanoi University of Mining and Geology\Desktop\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\NguyenQuangKhaiBTH.AssemblyInfoInputs.cache
+D:\OneDrive - Hanoi University of Mining and Geology\Desktop\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\NguyenQuangKhaiBTH.AssemblyInfo.cs
+D:\OneDrive - Hanoi University of Mining and Geology\Desktop\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\NguyenQuangKhaiBTH.csproj.CoreCompileInputs.cache
+D:\OneDrive - Hanoi University of Mining and Geology\Desktop\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\NguyenQuangKhaiBTH.MvcApplicationPartsAssemblyInfo.cache
+D:\OneDrive - Hanoi University of Mining and Geology\Desktop\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\NguyenQuangKhaiBTH.RazorAssemblyInfo.cache
+D:\OneDrive - Hanoi University of Mining and Geology\Desktop\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\NguyenQuangKhaiBTH.RazorAssemblyInfo.cs
+D:\OneDrive - Hanoi University of Mining and Geology\Desktop\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\staticwebassets.build.json
+D:\OneDrive - Hanoi University of Mining and Geology\Desktop\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\staticwebassets.development.json
+D:\OneDrive - Hanoi University of Mining and Geology\Desktop\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\OneDrive - Hanoi University of Mining and Geology\Desktop\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\scopedcss\bundle\NguyenQuangKhaiBTH.styles.css
+D:\OneDrive - Hanoi University of Mining and Geology\Desktop\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\scopedcss\projectbundle\NguyenQuangKhaiBTH.bundle.scp.css
+D:\OneDrive - Hanoi University of Mining and Geology\Desktop\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\NguyenQuangKhaiBTH.dll
+D:\OneDrive - Hanoi University of Mining and Geology\Desktop\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\refint\NguyenQuangKhaiBTH.dll
+D:\OneDrive - Hanoi University of Mining and Geology\Desktop\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\NguyenQuangKhaiBTH.pdb
+D:\OneDrive - Hanoi University of Mining and Geology\Desktop\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\NguyenQuangKhaiBTH.genruntimeconfig.cache
+D:\OneDrive - Hanoi University of Mining and Geology\Desktop\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\ref\NguyenQuangKhaiBTH.dll
+D:\C#\NguyenQuangKhaiBTH\bin\Debug\net6.0\appsettings.Development.json
+D:\C#\NguyenQuangKhaiBTH\bin\Debug\net6.0\appsettings.json
+D:\C#\NguyenQuangKhaiBTH\bin\Debug\net6.0\NguyenQuangKhaiBTH.staticwebassets.runtime.json
+D:\C#\NguyenQuangKhaiBTH\bin\Debug\net6.0\NguyenQuangKhaiBTH.exe
+D:\C#\NguyenQuangKhaiBTH\bin\Debug\net6.0\NguyenQuangKhaiBTH.deps.json
+D:\C#\NguyenQuangKhaiBTH\bin\Debug\net6.0\NguyenQuangKhaiBTH.runtimeconfig.json
+D:\C#\NguyenQuangKhaiBTH\bin\Debug\net6.0\NguyenQuangKhaiBTH.dll
+D:\C#\NguyenQuangKhaiBTH\bin\Debug\net6.0\NguyenQuangKhaiBTH.pdb
+D:\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\NguyenQuangKhaiBTH.csproj.AssemblyReference.cache
+D:\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\NguyenQuangKhaiBTH.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\NguyenQuangKhaiBTH.AssemblyInfoInputs.cache
+D:\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\NguyenQuangKhaiBTH.AssemblyInfo.cs
+D:\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\NguyenQuangKhaiBTH.csproj.CoreCompileInputs.cache
+D:\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\NguyenQuangKhaiBTH.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\NguyenQuangKhaiBTH.RazorAssemblyInfo.cache
+D:\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\NguyenQuangKhaiBTH.RazorAssemblyInfo.cs
+D:\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\staticwebassets.build.json
+D:\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\staticwebassets.development.json
+D:\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\scopedcss\bundle\NguyenQuangKhaiBTH.styles.css
+D:\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\scopedcss\projectbundle\NguyenQuangKhaiBTH.bundle.scp.css
+D:\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\NguyenQuangKhaiBTH.dll
+D:\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\refint\NguyenQuangKhaiBTH.dll
+D:\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\NguyenQuangKhaiBTH.pdb
+D:\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\NguyenQuangKhaiBTH.genruntimeconfig.cache
+D:\C#\NguyenQuangKhaiBTH\obj\Debug\net6.0\ref\NguyenQuangKhaiBTH.dll
