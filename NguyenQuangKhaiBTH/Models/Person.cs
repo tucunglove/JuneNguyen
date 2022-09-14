@@ -5,7 +5,7 @@ namespace NguyenQuangKhaiBTH.Models
     {
         public int PersonID { get; set; }
 
-        public int PersonName { get; set; }
+        public string PersonName { get; set; }
 
         public int PersonAge { get; set; }
     }

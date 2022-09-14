@@ -1,13 +1,22 @@
-<h2>Thông tin người dùng : @ViewBag.mess</h2>
-<form asp-action="Index">
-    <label>EmployeeID : </label>
-    <input type="text   " name="EmployeeID">
-    <br>
-    <label>EmployeeName : </label>
-    <input type="text" name="EmployeeName">
-    <br>
-    <label>EmployeeAge :</label>
-    <input type="text" name="EmployeeAge">
-    <br>
-    <input class="btn btn-success" type="submit" value="Save">
-</form>
+<table class="table border">
+    <tr>
+        <th>
+            <label>Employee Id</label>
+        </th>
+        <th>
+            <label>Employee Name</label>
+        </th>
+        <th>
+            <label>Employee Age</label>
+        </th>
+    </tr>
+
+    @foreach (var item in ViewData["Employee"] as List<Employee>)
+    {
+        <tr>
+            <td>@item.EmployeeID</td>
+            <td>@item.EmployeeName</td>
+            <td>@item.EmployeeAge</td>
+        </tr>
+    }
+</table>

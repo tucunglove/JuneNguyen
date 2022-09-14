@@ -7,7 +7,7 @@ namespace NguyenQuangKhaiBTH.Models
         //khai bai thuoc tinh cua doi tuong
         public int StudentID { get; set; }
 
-        public int StudentName { get; set; }
+        public string StudentName { get; set; }
 
         public int StudentAge { get; set; }
     }

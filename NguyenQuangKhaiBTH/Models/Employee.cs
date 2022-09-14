@@ -5,7 +5,7 @@ namespace NguyenQuangKhaiBTH.Models
     {
         public int EmployeeID { get; set; }
 
-        public int EmployeeName { get; set; }
+        public string EmployeeName { get; set; }
 
         public int EmployeeAge { get; set; }
     }
