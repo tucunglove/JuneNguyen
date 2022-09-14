@@ -7,7 +7,16 @@ namespace NguyenQuangKhaiBTH.Controllers
     {
         public IActionResult Index()
         {
-            return View();
+            // khoi tao 1 list student 
+            List<Student> stdList = new List<Student>{
+                new Student{StudentID = 1, StudentName="Nguyen Quang Khai". StudentAge = 19}
+                new Student{StudentID = 2, StudentName="Nguyen Quang Kha". StudentAge = 19}
+                new Student{StudentID = 3, StudentName="Nguyen Quang Khoi". StudentAge = 19}
+                new Student{StudentID = 4, StudentName="Nguyen Quang Khi". StudentAge = 19}
+                new Student{StudentID = 5, StudentName="Nguyen Quang Khiu". StudentAge = 19}
+
+            };
+            return View(stdList);
         }
         [HttpPost]
         public IActionResult Index(string StudentID, string StudentName, string StudentAge)
